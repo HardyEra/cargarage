@@ -37,7 +37,7 @@ html,body{
 {
     height:150px;
     width:100%;
-   
+    overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -95,7 +95,7 @@ video{
 }
 #page1 h1{
     font-family: Times New Roman;
-    color: #E75757 ;
+    color: #ffaa00 ;
     font-size: 190px;
     position: relative;
     
